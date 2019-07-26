@@ -5,46 +5,18 @@
     },
     {
       "id": "traverse",
-      "curseforge": 267769
+      "curseforge": 308777
+    },
+    {
+      "id": "terrestria",
+      "curseforge": 323974
     },
     {
       "id": "fabric-api",
       "curseforge": 306612
     },
     {
-      "id": "techreborn",
-      "curseforge": 233564
-    },
-    {
-      "id": "reborncore",
-      "curseforge": 237903
-    },
-    {
       "id": "refinements",
       "curseforge": 307279
-    },
-    {
-      "id": "steves-carts-reborn",
-      "curseforge": 253462
-    },
-    {
-      "id": "the-biome-overhaul",
-      "curseforge": 318680
-    },
-    {
-      "id": "redwoods",
-      "curseforge": 314574
-    },
-    {
-      "id": "appleskin",
-      "curseforge": 248787
-    },
-    {
-      "id": "foamfix",
-      "curseforge": 278494
-    },
-    {
-      "id": "clumps",
-      "curseforge": 256717
     }
 ]
